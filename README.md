@@ -1,0 +1,1 @@
+# CheckIfEvenAndDivBy3AndBy6AndIsPrime
